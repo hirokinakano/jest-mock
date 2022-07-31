@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "y",
+  "version": "y",
+  "description": "n",
+  "main": "n",
+  "repository": "n",
+  "author": "n",
+  "license": "n",
+  "private": false,
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
